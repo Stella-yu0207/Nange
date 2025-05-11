@@ -356,7 +356,7 @@ input, select, textarea {
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("C:\Users\FZR07\Pictures\2.png"), url("images/overlay.svg");
+		background-image: url("C:\Users\FZR07\Pictures\2.png"), url("C:\Users\FZR07\Pictures\2.svg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
